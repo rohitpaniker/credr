@@ -13,5 +13,3 @@ Steps to install and run this application
 3. yarn install
 
 4. yarn start
-
-## Default Credentials
